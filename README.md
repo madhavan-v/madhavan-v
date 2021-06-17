@@ -7,4 +7,4 @@ Besides being a software developer, i enjoy:
 - Listening to music
 - Sleeping (who doesn't 😛)
 
-![cover pic](cover.jpg)
+![cover pic](cover.jpeg)
